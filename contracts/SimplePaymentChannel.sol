@@ -2,6 +2,7 @@ pragma solidity ^0.5.0;
 
 import "openzeppelin-solidity/contracts/math/SafeMath.sol";
 
+
 /**
  * @title SimplePaymentChannel
  * @author Luis Videla
@@ -14,7 +15,6 @@ import "openzeppelin-solidity/contracts/math/SafeMath.sol";
  */
 contract SimplePaymentChannel {
     using SafeMath for uint256;
-    // using ECRecovery for bytes32;
 
     //============================================================================
     // EVENTS

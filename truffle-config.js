@@ -15,6 +15,11 @@ module.exports = {
       ),
       mnemonic: 'nose phone clip fee agent crop decorate spell album february oppose anxiety',
       network_id: '*' // Match any network id,
-    }
+    },
+    coverage: {
+      host: '127.0.0.1',
+      port: 8545,
+      network_id: '*',
+    },
   }
 }
