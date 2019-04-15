@@ -63,3 +63,8 @@ So just change you function parameters from address _payeeAddr to address payabl
 ### Yet not resolved: Truffle shows no output when running tests
 
 - https:// ethereum.stackexchange.com/questions/66629/truffle-does-nothing-and-shows-no-output-when-running-tests
+
+Important: breaking change for versions >= 0.5.0
+
+### Yet not resolved: solidity-coverage
+solidity-coverage requires compilation with solc >= 0.4.21. We're prefixing our own instrumentation events with the emit keyword to reduce warnings volume when running the tool.
