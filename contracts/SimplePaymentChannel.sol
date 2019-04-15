@@ -4,7 +4,7 @@ import "openzeppelin-solidity/contracts/math/SafeMath.sol";
 
 /**
  * @title SimplePaymentChannel
- * @author 
+ * @author Luis Videla
  *
  * @dev Ethereum payment channels allow for off-chain transactions with an on-chain
  * settlement. In this implementation, a party (sender) can open a channel with a 
