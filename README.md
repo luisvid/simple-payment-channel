@@ -1,4 +1,5 @@
 [![Coverage Status](https://coveralls.io/repos/github/luisvid/simple-payment-channel/badge.svg)](https://coveralls.io/github/luisvid/simple-payment-channel)
+[![Build Status](https://travis-ci.org/luisvid/simple-payment-channel.svg?branch=master)](https://travis-ci.org/luisvid/simple-payment-channel)
 
 # simple one-way payment channel
 
