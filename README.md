@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/luisvid/simple-payment-channel/badge.svg)](https://coveralls.io/github/luisvid/simple-payment-channel)
+
 # simple one-way payment channel
 
 
